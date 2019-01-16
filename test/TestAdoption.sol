@@ -30,4 +30,5 @@ contract TestAdoption {
   uint expectedPetId = 8;
   // expected owner of the adopted pet is this contract
   address expectedAdopter = address(this);
+
 }
